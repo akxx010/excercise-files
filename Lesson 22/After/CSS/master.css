@@ -1,0 +1,36 @@
+.top-section {
+  background-color: #8FC1E3;
+  text-align: center;
+  padding-top: 22rem;
+}
+
+
+.my-tagline {
+  width: 8%;
+  margin: 0 auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 35rem;
+  left: 25rem;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 65rem;
+  top: 15rem;
+}
+
+body {
+  margin: 0;
+  
+}
+
+h1 {
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+}
