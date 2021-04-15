@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  /* text-align: center; */
+}
+
+h1 {
+  margin: 0;
+}
+
+.my-title-subheading {
+  margin: 0 auto;
+  text-decoration: underline;
+  width: 10%;
+}
+
+.top-section {
+  background-color: #8FC1E3;
+  padding-top: 21rem;
+  text-align: center;
+}
+
+.bottom-cloud {
+  left: 15rem;
+  position: absolute;
+  top: 25rem;
+
+}
+
+.top-cloud {
+  left: 65rem;
+  position: absolute;
+  top: 12rem;
+}
