@@ -22,9 +22,15 @@
   top: 15rem;
 }
 
+.my-main-heading{
+  font-family: 'Playfair Display', serif;
+
+}
+
 body {
   margin: 0;
-  
+  font-family: 'Raleway', sans-serif;
+
 }
 
 h1 {
